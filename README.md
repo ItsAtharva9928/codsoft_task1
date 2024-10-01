@@ -1,11 +1,11 @@
 # codsoft_task1
-
+```
 #include<iostream>
 #include<cstdlib>
 #include<stdlib.h>
 #include<ctime>
 
-using namespace std;
+    using namespace std;
 
 int main()
 {
@@ -56,3 +56,4 @@ int main()
         }
     return 0;
 }
+```
